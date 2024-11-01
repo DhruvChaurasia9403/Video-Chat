@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "533591185133",
+    "firebase_url": "https://build4u-f3410-default-rtdb.firebaseio.com",
+    "project_id": "build4u-f3410",
+    "storage_bucket": "build4u-f3410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533591185133:android:61d12a9fec34a7eade1ee4",
+        "android_client_info": {
+          "package_name": "com.example.video_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533591185133-m1c9pnc86thu1qvsnldptjkootpa1ken.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.video_chat",
+            "certificate_hash": "3a45056820ded98673cb1e398a97d37a24fe568b"
+          }
+        },
+        {
+          "client_id": "533591185133-fvlcvthvtf4r8n8ebvni5n8ms94n1d7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1SAciG3KuFQ4fyFc-oDg0ONKgkl_3xfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533591185133-fvlcvthvtf4r8n8ebvni5n8ms94n1d7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
