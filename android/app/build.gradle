@@ -10,11 +10,11 @@ android {
     compileSdk = 34
 
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_11
-        targetCompatibility JavaVersion.VERSION_11
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
     }
     kotlinOptions {
-        jvmTarget = "11"
+        jvmTarget = "17"
     }
 
     defaultConfig {
@@ -38,8 +38,7 @@ android {
 dependencies {
     implementation platform('com.google.firebase:firebase-bom:33.5.1')
     implementation 'com.google.firebase:firebase-analytics'
-    implementation 'com.google.android.gms:play-services-auth:20.6.0' // Add this line if not present
-    implementation 'com.google.signin:google-signin:6.2.1' // Your Google Sign-In dependency
+    implementation 'com.google.android.gms:play-services-auth:21.2.0' // Add this line if not present
 }
 
 flutter {
